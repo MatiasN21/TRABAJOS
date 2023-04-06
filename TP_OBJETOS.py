@@ -372,8 +372,8 @@ funcionó.'''
 '''10) (Opcional): Repita el ejercicio anterior pero esta vez importando la clase Heladeria. ¿Qué se necesita para que funcione la
 importación?'''
 
-from heladeria import Heladeria
+# from heladeria import Heladeria
 
-heladeria1 = Heladeria("La Heladería del Pueblo", "Helados", ["dulce de leche", "banana", "menta granizado"])
-heladeria1.describir_restaurante()
-heladeria1.mostrar_sabores()
+# heladeria1 = Heladeria("La Heladería del Pueblo", "Helados", ["dulce de leche", "banana", "menta granizado"])
+# heladeria1.describir_restaurante()
+# heladeria1.mostrar_sabores()
